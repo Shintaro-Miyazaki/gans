@@ -10,7 +10,7 @@ Multiple Generative Adversarial Networks (GANs) implemented in PyTorch and Tenso
 ## Vanilla GANs
 Vanilla GANs found in this project were developed based on the original paper [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Goodfellow et al.
 
-These are trained on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), and learn to create hand-written digit images using a 1-Dimensional vector representation for 2D input images. Run these jupyter notebooks on your machine. Warning: Schedule enough time to do so. On my machine (OSX, macbookpro) my first run took about 3.5 hours!  
+These are trained on the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), and learn to create hand-written digit images using a 1-Dimensional vector representation for 2D input images. Run these jupyter notebooks on your machine. Warning: Schedule enough time to do so. On my machine (OSX, macbookpro) my first run took about 3h15mins!  
 
 - [PyTorch Notebook](https://github.com/Shintaro-Miyazaki/gans/blob/master/1.%20Vanilla%20GAN%20PyTorch.ipynb)
 - [TensorFlow Notebook](https://github.com/Shintaro-Miyazaki/gans/blob/master/1.%20Vanilla%20GAN%20TensorFlow.ipynb)
