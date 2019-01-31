@@ -1,5 +1,5 @@
 # Install
-First install pytorch https://pytorch.org/.
+First install pytorch (https://pytorch.org/) and then tensorboardX (https://github.com/lanpa/tensorboardX).
 
 #  gans: Generative Adversarial Networks
 Multiple Generative Adversarial Networks (GANs) implemented in PyTorch and Tensorflow.
