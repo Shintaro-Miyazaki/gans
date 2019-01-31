@@ -24,9 +24,11 @@ __MNIST-like generated images before & after training.__
 ## DCGANs
 Deep Convolutional Generative Adversarial Networks (DCGANs) in this repository were developed based on the original paper [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) by Radford et al.
 
-These are also trained on the [MNIST](http://yann.lecun.com/exdb/mnist/) datasets. 
+These are trained on the CIFAR10 and the MNIST datasets. They use 3 dimensional representations for images (length x height x colors) directly for training.
 
-- [PyTorch MNIST Notebook](https://github.com/Shintaro-Miyazaki/gans/blob/master/2.%20DC-GAN%20PyTorch-MNIST.ipynb)
+- [DC-GAN PyTorch MNIST Notebook](https://github.com/Shintaro-Miyazaki/gans/blob/master/2.%20DC-GAN%20PyTorch-MNIST.ipynb)
+- [DC-GAN PyTorch CIFAR Notebook](https://github.com/Shintaro-Miyazaki/gans/blob/master/2.%20DC-GAN%20PyTorch.ipynb)
+- [DC-GAN Tensorflow CIFAR Notebook](https://github.com/Shintaro-Miyazaki/gans/blob/master/2.%20DC-GAN%20TensorFlow.ipynb)
 
 <img src=".images/dcgan_cifar_pt_raw.png" width="300"> <img src=".images/dcgan_cifar_pt.png" width="300">
 
